@@ -28,3 +28,9 @@ button{
     border-radius: 15px ;
     background-color: rgb(215, 215, 0);
 }
+
+#img{
+    margin: auto;
+    height: 200px;
+    width: 250px;
+}
