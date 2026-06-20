@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+}
+.form{
+    margin: auto;
+    border: 2px solid;
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+    height: 300px;
+    width: 350px;
+    background-color: hsl(0, 96%, 57%);
+    border-radius: 10px;
+    box-shadow: 10px 8px 20px;
+}
+#pokename{
+    font-size: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: hsl(0, 83%, 30%) ;
+
+}
+button{
+    font-size: 25px;
+    padding: 7px 40px;
+    border-radius: 15px ;
+    background-color: rgb(215, 215, 0);
+}
